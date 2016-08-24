@@ -6,6 +6,11 @@ The ABC Books project makes available for research and analysis an interactive d
 
 ## Project Development
 
+The project was built upon the Drupal content management system. Images of the ABC books contained in the archive are transcluded from the Princeton University Digital Library (PUDL)
+
 ## Links
 
 [ABCBooks](http://etc.princeton.edu/abcbooks)
+[Princeton University Digital Library](http://pudl.princeton.edu/)
+[McGraw Center for Teaching and Learning](http://mcgraw.princeton.edu)
+[Center for Digital Humanities](http://digitalhumanities.princeton.edu)
