@@ -1,0 +1,652 @@
+<?xml-model href="https://etc.princeton.edu/abcbooks/schema/abcbooks.schema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The alphabet of Goody Two Shoes</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <pubPlace>Princeton, New Jersey</pubPlace>
+            <idno type="voyagerid">4718903</idno>
+            <idno type="abcbooksid">4718903_goody</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="m">
+                     <seg type="nonSort">The </seg>
+                     <seg type="main">alphabet of Goody Two Shoes</seg>
+                     <seg type="sub">by learning which she soon got rich</seg>
+                  </title>
+                  <imprint>
+                     <pubPlace>London</pubPlace>
+                     <publisher>Printed by J. Harris and Son, corner of St. Paul's Church-Yard</publisher>
+                     <date notBefore="1820">1820</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="page_image142">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000142.jp2"/>
+      </surface>
+      <surface xml:id="page_image143">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000143.jp2"/>
+      </surface>
+      <surface xml:id="page_image144">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000144.jp2"/>
+      </surface>
+      <surface xml:id="page_image145">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000145.jp2"/>
+      </surface>
+      <surface xml:id="page_image146">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000146.jp2"/>
+      </surface>
+      <surface xml:id="page_image147">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000147.jp2"/>
+      </surface>
+      <surface xml:id="page_image148">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000148.jp2"/>
+      </surface>
+      <surface xml:id="page_image149">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000149.jp2"/>
+      </surface>
+      <surface xml:id="page_image150">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000150.jp2"/>
+      </surface>
+      <surface xml:id="page_image151">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000151.jp2"/>
+      </surface>
+      <surface xml:id="page_image152">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000152.jp2"/>
+      </surface>
+      <surface xml:id="page_image153">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000153.jp2"/>
+      </surface>
+      <surface xml:id="page_image154">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000154.jp2"/>
+      </surface>
+      <surface xml:id="page_image155">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000155.jp2"/>
+      </surface>
+      <surface xml:id="page_image156">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000156.jp2"/>
+      </surface>
+      <surface xml:id="page_image157">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000157.jp2"/>
+      </surface>
+      <surface xml:id="page_image158">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000158.jp2"/>
+      </surface>
+      <surface xml:id="page_image159">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000159.jp2"/>
+      </surface>
+      <surface xml:id="page_image160">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000160.jp2"/>
+      </surface>
+      <surface xml:id="page_image161">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000161.jp2"/>
+      </surface>
+      <surface xml:id="page_image162">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000162.jp2"/>
+      </surface>
+      <surface xml:id="page_image163">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000163.jp2"/>
+      </surface>
+      <surface xml:id="page_image164">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000164.jp2"/>
+      </surface>
+      <surface xml:id="page_image165">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000165.jp2"/>
+      </surface>
+      <surface xml:id="page_image166">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000166.jp2"/>
+      </surface>
+      <surface xml:id="page_image167">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000167.jp2"/>
+      </surface>
+      <surface xml:id="page_image168">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000168.jp2"/>
+      </surface>
+      <surface xml:id="page_image169">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000169.jp2"/>
+      </surface>
+      <surface xml:id="page_image170">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000170.jp2"/>
+      </surface>
+      <surface xml:id="page_image171">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000171.jp2"/>
+      </surface>
+      <surface xml:id="page_image172">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000172.jp2"/>
+      </surface>
+      <surface xml:id="page_image173">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000173.jp2"/>
+      </surface>
+      <surface xml:id="page_image174">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000174.jp2"/>
+      </surface>
+      <surface xml:id="page_image175">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000175.jp2"/>
+      </surface>
+      <surface xml:id="page_image176">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000176.jp2"/>
+      </surface>
+      <surface xml:id="page_image177">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000177.jp2"/>
+      </surface>
+
+   </facsimile>
+   <text>
+      <body>
+
+         <pb facs="page_image142" n="142"/>
+         <div>
+            <ab>
+               
+               <lb/>THE
+               <lb/>ALPHABET
+               <lb/>or
+               <lb/>GOODY TWO SHOES
+               <lb/>BY LEARNING WHICH SHE SOON' GOT RICH.
+               <lb/>LONDON:
+               <lb/>PRINTED FOR J. HARRIS AND SON, CORNER OF ST. PAULS CHURCH-YARD.
+               <lb/>1820.
+            </ab>
+         </div>
+         <pb facs="page_image143" n="143"/>
+         <div>
+            <lg>
+               <l>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</l>
+            </lg>
+         </div>
+         <pb facs="page_image144" n="144"/>
+         <div>
+            <lg>
+               <l>f m w d t f x</l>
+               <l>h q o b l a n</l>
+               <l>v p k z s c y</l>
+               <l>e u g j i r &amp;</l>
+               <l>N B G E O U</l>
+               <l>Q F S D P M</l>
+               <l>T C J Z V K</l>
+               <l>R Y A I L W</l>
+               <l>H X.</l>
+            </lg>
+         </div>
+         
+         <pb facs="page_image145" n="145"/>
+         <div>
+            <ab>
+               <lb/>ba	be	bi	bo	bu	ab	eb	ib	ob	ub
+               <lb/>ca	ce	ci	CO	cu	ac	ec	ic	oe	uc
+               <lb/>da	de	di	do	du	ad	ed	id	od	ud
+               <lb/>fa	fe	fi	to	fu	af	ef	if	of	uf
+               <lb/>§a	ge	gi	g°	gu	ag	eg	»g	og	ug
+               <lb/>ka	ke	ki	ko	ku	ak	ek	ik	ok	uk
+               <lb/>la	le	li	lo	hi	al	el	il	ol	ul
+               <lb/>ma	me	ini	mo	mu	am	em	im	om	um
+               <lb/>na	ne	ni	no	nu	an	en	in	on	un
+               <lb/>pa	Pe	P>	po	pu	ap	ep		op	up
+               <lb/>ra	re	ri	ro	ru	ar	er	ir	or	ur
+               <lb/>sa	se	si	so	su	as	es	is	os	us
+               <lb/>ta	te	ti	to	tu	at	et	it	ot	ut
+            </ab>
+         </div>
+         <pb facs="page_image146" n="146"/>
+         <div>
+            <ab>
+               <lb />bad	had	lad	mad bat	cat	hat	mat
+               <lb />cap	gap	lap	map ben	den	hen	men
+               <lb />fop	hop bar	far dot	hot bun	fun
+               <lb />bin	din big	dig bed	fed bag	cag
+               <lb />ale	bat fan	gun kit	lap pit	rob
+               <lb />lop	sop jar	mar lot	pot run	nun
+               <lb />fin	pin fig pig led	red fag	nag
+               <lb />cow	dog hat	ink man	new sir	tin
+               <lb />sad rat tap pen top war sot tun
+               <lb />tin wig wed rag eat joy one use
+            </ab>
+         </div>
+         <pb facs="page_image147" n="147"/>
+         <div>
+            <lg>
+               
+               <l>A cat, a dog, and a rat.</l>
+               <l>Put the pig in the jar.</l>
+               <l>Is the bun for me?</l>
+               <l>Put the wig in the box.</l>
+               
+               <l>Will you go to bed?</l>
+               <l>Give me my new hat.</l>
+               <l>Mend this pen for me.</l>
+               <l>I like a cup and ball.</l>
+               
+               <l>Will you have a tart?</l>
+               <l>Look at the red Cow.</l>
+               <l>Do not hurt the Fly.</l>
+               <l>O! what a line Nag!</l>
+            </lg>
+         </div>
+         <pb facs="page_image148" n="148"/>
+         <div>
+            <lg>
+               <l>Is that a new gun ?</l>
+               <l>Let me fly my kite.</l>
+               <l>Poor Bob fell in a pit.</l>
+               <l>See how the Ducks swim.</l>
+               
+               <l>Give me a knife and fork.</l>
+               <l>Let me comb out my hair.</l>
+               <l>Will you brush my coat.</l>
+               <l>Let us go out to play.</l>
+               
+               <l>Do not ink your shirt.</l>
+               <l>I wish I had a nice pear.</l>
+               <l>Here is a fine plum cake.</l>
+               <l>Now be a good child.</l>
+            </lg>
+         </div>
+         
+         <pb facs="page_image149" n="149"/>
+         <div>
+            <ab>
+               <lb />A-ble
+               <lb />a-corn
+               <lb />ad-der
+               <lb />af-ter
+               <lb />al-most
+               <lb />an-gel
+               <lb />Back-ward
+               <lb />ba-con
+               <lb />bar-ley
+               <lb />bar-rel
+               <lb />beau-ty
+               <lb />be-ing
+               <lb />Christ-mas
+               <lb />clou-dy
+               <lb />co-lour
+               <lb />com-fort
+               <lb />cop-per
+               <lb />co-ver
+               <lb />Da-mask
+               <lb />dan-ger
+               <lb />dark-ness
+               <lb />daugh-ter
+               <lb />din-ner
+               <lb />dis-tance
+               <lb />Eu-sy
+               <lb />eigh-ty
+               <lb />ei-ther
+               <lb />el-dest
+               <lb />em-blem
+               <lb />en-gine
+               <lb />Far-mer
+               <lb />far-thing
+               <lb />fear-ful
+               <lb />fea-ther
+               <lb />friend-ship
+               <lb />fright-fill
+               <lb />Gal-lant
+               <lb />gal-lon
+               <lb />gar-den
+               <lb />good-ness
+               <lb />grate-ful
+               <lb />her-ring
+               <lb />hin-der
+               <lb />hogs-head
+               <lb />hus-band
+               <lb />I-dle
+               <lb />inch-es in-crease
+               <lb />in-to i-ron
+               <lb />Jew-el joc-key
+               <lb />jour-ney join-er
+               <lb />judg-ment Keep-er
+               <lb />kill-ed
+               <lb />kind-ly
+               <lb />king-dom
+               <lb />gro-cer
+               <lb />know-ledge
+               <lb />La-hour
+               <lb />Hand-some
+               <lb />lap-wing
+               <lb />hap-pen
+               <lb />lar-der
+            </ab>
+         </div>
+         <pb facs="page_image150" n="150"/>
+         <div>
+            <ab>
+               <lb />lar-gest
+               <lb />learn-ing
+               <lb />les-son
+               <lb />Mag-pie
+               <lb />ma-ker
+               <lb />man-ner
+               <lb />ma-ny
+               <lb />inar-ble
+               <lb />mar-tin
+               <lb />Na-ture
+               <lb />naugh-ty
+               <lb />nei-ther
+               <lb />ne-ver
+               <lb />nim-ble
+               <lb />nine-ty
+               <lb />Of-ten
+               <lb />or-chard
+               <lb />or-der
+               <lb />ow-ing
+               <lb />ovvn-er
+               <lb />Pa-per
+               <lb />pa-rent
+               <lb />pea-cock
+               <lb />pic-ture
+               <lb />plea-sure
+               <lb />pud-ding
+               <lb />Quar-rel
+               <lb />quar-ter
+               <lb />quib-ble
+               <lb />Rab-bh
+               <lb />ran-dom
+               <lb />ra-ven
+               <lb />read-i n g
+               <lb />ring-ing
+               <lb />rum-mer
+               <lb />Sad-dle
+               <lb />sad-ness
+               <lb />scho-lar
+               <lb />ser-mon
+               <lb />shil—ling
+               <lb />swift-ness
+               <lb />Thou-sand
+               <lb />ti-ger
+               <lb />tor-ment
+               <lb />trea-sure
+               <lb />tru-ant
+               <lb />twen-ty
+               <lb />Ud-der
+               <lb />ug-iy
+               <lb />un-ele
+               <lb />un-der
+               <lb />up-right
+               <lb />Va-grant
+               <lb />val-ley
+               <lb />ves-sel
+               <lb />vint-ner
+               <lb />vir-gin
+               <lb />vir-tue
+               <lb />Wag-gon
+               <lb />watch-tul
+               <lb />weak-ness
+               <lb />whip-cord
+               <lb />win-ter
+               <lb />work-man
+               <lb />Yel-low
+               <lb />young-est
+            </ab>
+         </div>
+         <pb facs="page_image151" n="151"/>
+         <div type="alpha-group" xml:id="ag1" ana="A">
+            <lg>
+               <l>A, was an Apple,</l>
+               <l>And put in a pie,</l>
+               <l>With ten or twelve others,</l>
+               <l>All piled up so high.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag2" ana="B">
+            <lg>
+               <l>And B, was tall Biddy, </l>
+               <l>Who made the puff paste, </l>
+               <l>And put sugar and lemon-peel </l>
+               <l>Quite to my taste.</l>
+            </lg>
+         </div>
+         <pb facs="page_image152" n="152"/>
+         <pb facs="page_image153" n="153"/>
+         <pb facs="page_image154" n="154"/>
+         <div type="alpha-group" xml:id="ag3" ana="C">
+            <lg>
+               <l>C, is a Cheese,</l>
+               <l>But don’t ask for a slice,</l>
+               <l>For it serves to maintain</l>
+               <l>A whole nation of Mice.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag4" ana="D">
+            <lg>
+               <l>D , was Dick Dump,</l>
+               <l>Who did nothing but eat.</l>
+               <l>And would leave book and play</l>
+               <l>For a nice bit of meat.</l>
+            </lg>
+         </div>
+         <pb facs="page_image155" n="155"/>
+         
+         <div type="alpha-group" xml:id="ag5" ana="E">
+            <lg>
+               <l>E, is an Egg</l>
+               <l>In a basket with more,</l>
+               <l>Which Jenny will sell</l>
+               <l>For a shilling a score.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag6" ana="F">
+            <lg>
+               <l>F was a Forester,</l>
+               <l>Dress’d all in green,</l>
+               <l>With a Cap of fine fur,</l>
+               <l>Like a King or a Queen.</l>
+            </lg>
+         </div>
+         
+         
+         <pb facs="page_image156" n="156"/>
+         <pb facs="page_image157" n="157"/>
+         <pb facs="page_image158" n="158"/>
+         <div type="alpha-group" xml:id="ag7" ana="G">
+            <lg>
+               <l>And G, was a Greyhound,</l>
+               <l>As swift as the wind ;</l>
+               <l>In the race or the course</l>
+               <l>Left all others behind.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag8" ana="H">
+            <lg>
+               <l>H, was a Hoyden,</l>
+               <l>Not like you, nor like me,</l>
+               <l>For she tumbled about</l>
+               <l>Like the waves of the sea.</l>
+            </lg>
+         </div>
+         <pb facs="page_image159" n="159"/>
+         <div type="alpha-group" xml:id="ag9" ana="I">
+            <lg>
+               <l>I, was the Ice</l>
+               <l>On which William would skate,</l>
+               <l>So up went his heels.</l>
+               <l>And down went his pate.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag10" ana="J">
+            <lg>
+               <l>J, was Joe Jenkins,</l>
+               <l>Who play’d on the fiddle,</l>
+               <l>And began twenty tunes,</l>
+               <l>But left off in the middle.</l>
+            </lg>
+         </div>
+         <pb facs="page_image160" n="160"/>
+         <pb facs="page_image161" n="161"/>
+         <pb facs="page_image162" n="162"/>
+         <div type="alpha-group" xml:id="ag11" ana="K">
+            <lg>
+               <l>K , was a Kitten,</l>
+               <l>Who jump’d at a Cork,</l>
+               <l>And learn'd to eat mice</l>
+               <l>Without plate, knife, or fork.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag12" ana="L">
+            <lg>
+               <l>And L, was the Lady,</l>
+               <l>Who made him so wise;</l>
+               <l>But he tore her long train,</l>
+               <l>And she cried out her eyes.</l>
+            </lg>
+         </div>
+         <pb facs="page_image163" n="163"/>
+         
+         <div type="alpha-group" xml:id="ag13" ana="M">
+            <lg>
+               <l>M, was Miss Mira,</l>
+               <l>Who turn'd in her toes,</l>
+               <l>And poked down her head</l>
+               <l>Till her knees met her nose.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag14" ana="N">
+            <lg>
+               <l>And N, Mr. Nobody,</l>
+               <l>Just come from France,</l>
+               <l>Said he'd set her upright,</l>
+               <l>And teach her to dance.</l>
+            </lg>
+         </div>
+         
+         <pb facs="page_image164" n="164"/>
+         <pb facs="page_image165" n="165"/>
+         <pb facs="page_image166" n="166"/>
+         <div type="alpha-group" xml:id="ag15" ana="O">
+            <lg>
+               <l>O, a grave Owl:</l>
+               <l>To look like him,</l>
+               <l>Tom tried, So he put on a mask,</l>
+               <l>And sat down by his side.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag16" ana="P">
+            <lg>
+               <l>P, was a Pilgrim,</l>
+               <l>With a staff in his hand,</l>
+               <l>Return’d weary and faint</l>
+               <l>From a far distant land.</l>
+            </lg>
+         </div>
+         
+         <pb facs="page_image167" n="167"/>
+         <div type="alpha-group" xml:id="ag17" ana="Q">
+            <lg>
+               <l>Q, was the Queen Of Spades,</l>
+               <l>I've heard say,</l>
+               <l>In her black velvet girdle,</l>
+               <l>Just dress’d for the play.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag18" ana="R">
+            <lg>
+               <l>Here’s Ralph with his Raree-show, </l>
+               <l>Calling so loud,</l>
+               <l>But I’d rather give two-pence</l>
+               <l>To look at the crowd.</l>
+            </lg>
+         </div>
+         <pb facs="page_image168" n="168"/>
+         <pb facs="page_image169" n="169"/>
+         <pb facs="page_image170" n="170"/>
+         <div type="alpha-group" xml:id="ag19" ana="S">
+            <lg>
+               <l>S, was a Soldier</l>
+               <l>Ready to fly</l>
+               <l>To kill all the French,</l>
+               <l>Or to eat a mince pie.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag20" ana="T">
+            <lg>
+               <l>T, was a Traveller,</l>
+               <l>Hast’ning on while ’twas light,</l>
+               <l>In the hope of a Cottage</l>
+               <l>To rest in at night.</l>
+            </lg>
+         </div>
+         <pb facs="page_image171" n="171"/>
+         <div type="alpha-group" xml:id="ag21" ana="U">
+            <lg>
+               <l>And U, an Umbrella,</l>
+               <l>Saved Bell, t’ other day</l>
+               <l>From a shower that fell,</l>
+               <l>Whilst she turn’d the new hay.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag22" ana="V">
+            <lg>
+               <l>V,was a Village,</l>
+               <l>Where liv’d near the brook</l>
+               <l>The renown’d Goody Two Shoes,</l>
+               <l>Who sends you this Book.</l>
+            </lg>
+         </div>
+         <pb facs="page_image172" n="172"/>
+         <pb facs="page_image173" n="173"/>
+         <pb facs="page_image174" n="174"/>
+         <div type="alpha-group" xml:id="ag23" ana="W">
+            <lg>
+               <l>W, was a Witch,</l>
+               <l>Who set off at noon</l>
+               <l>To visit her Cousin,</l>
+               <l>The Man in the Moon.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag24" ana="X">
+            <lg>
+               <l>X, was Xantippe,</l>
+               <l>As you ,ve heart belore;</l>
+               <l>But not to forget her,</l>
+               <l>I name her once more.</l>
+            </lg>
+         </div>
+         <pb facs="page_image175" n="175"/>
+         <div type="alpha-group" xml:id="ag25" ana="Y">
+            <lg>
+               <l>Y, was a Youth,</l>
+               <l>Who walk’d in the Park,</l>
+               <l>And play’d on the Flute,</l>
+               <l>Till he made the Dogs bark.</l>
+            </lg>
+         </div>
+         
+         <div type="alpha-group" xml:id="ag26" ana="Z">
+            <lg>
+               <l>Z, was a Zealander,</l>
+               <l>Whose name was Van Bley:</l>
+               <l>So here ends my song,</l>
+               <l>And I wish you Good-day.</l>
+            </lg>
+         </div>
+         <pb facs="page_image176" n="176"/>
+         <pb facs="page_image177" n="177"/>
+
+
+      </body>
+   </text>
+</TEI>

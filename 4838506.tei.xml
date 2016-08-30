@@ -1,0 +1,391 @@
+<?xml-model href="https://etc.princeton.edu/abcbooks/schema/abcbooks.schema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>R. Cruikshank's Comic Alphabet</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <pubPlace>Princeton, New Jersey</pubPlace>
+            <idno type="voyagerid">4838506</idno>
+            <idno type="abcbooksid">4838506_cruikshank</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="m">
+                     <seg type="main">R. Cruikshank's comic alphabet</seg>
+                  </title>
+                  <imprint>
+                     <pubPlace>London</pubPlace>
+                     <publisher>Darton and Clark (Holborn Hill)</publisher>
+                     <date notBefore="1840">[ca. 1840] 1840</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="page_image1">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000001.jp2"/>
+      </surface>
+      <surface xml:id="page_image2">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000002.jp2"/>
+      </surface>
+      <surface xml:id="page_image3">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000003.jp2"/>
+      </surface>
+      <surface xml:id="page_image4">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000004.jp2"/>
+      </surface>
+      <surface xml:id="page_image5">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000005.jp2"/>
+      </surface>
+      <surface xml:id="page_image6">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000006.jp2"/>
+      </surface>
+      <surface xml:id="page_image7">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000007.jp2"/>
+      </surface>
+      <surface xml:id="page_image8">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000008.jp2"/>
+      </surface>
+      <surface xml:id="page_image9">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000009.jp2"/>
+      </surface>
+      <surface xml:id="page_image10">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000010.jp2"/>
+      </surface>
+      <surface xml:id="page_image11">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000011.jp2"/>
+      </surface>
+      <surface xml:id="page_image12">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000012.jp2"/>
+      </surface>
+      <surface xml:id="page_image13">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000013.jp2"/>
+      </surface>
+      <surface xml:id="page_image14">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000014.jp2"/>
+      </surface>
+      <surface xml:id="page_image15">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000015.jp2"/>
+      </surface>
+      <surface xml:id="page_image16">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000016.jp2"/>
+      </surface>
+      <surface xml:id="page_image17">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000017.jp2"/>
+      </surface>
+      <surface xml:id="page_image18">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000018.jp2"/>
+      </surface>
+      <surface xml:id="page_image19">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000019.jp2"/>
+      </surface>
+      <surface xml:id="page_image20">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000020.jp2"/>
+      </surface>
+      <surface xml:id="page_image21">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000021.jp2"/>
+      </surface>
+      <surface xml:id="page_image22">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000022.jp2"/>
+      </surface>
+      <surface xml:id="page_image23">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000023.jp2"/>
+      </surface>
+      <surface xml:id="page_image24">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000024.jp2"/>
+      </surface>
+      <surface xml:id="page_image25">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000025.jp2"/>
+      </surface>
+      <surface xml:id="page_image26">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000026.jp2"/>
+      </surface>
+      <surface xml:id="page_image27">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000027.jp2"/>
+      </surface>
+      <surface xml:id="page_image28">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000028.jp2"/>
+      </surface>
+      <surface xml:id="page_image29">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000029.jp2"/>
+      </surface>
+      <surface xml:id="page_image30">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000030.jp2"/>
+      </surface>
+      <surface xml:id="page_image31">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000031.jp2"/>
+      </surface>
+      <surface xml:id="page_image32">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000032.jp2"/>
+      </surface>
+      <surface xml:id="page_image33">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000033.jp2"/>
+      </surface>
+      <surface xml:id="page_image34">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000034.jp2"/>
+      </surface>
+      <surface xml:id="page_image35">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000035.jp2"/>
+      </surface>
+      <surface xml:id="page_image36">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000036.jp2"/>
+      </surface>
+      <surface xml:id="page_image37">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000037.jp2"/>
+      </surface>
+      <surface xml:id="page_image38">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000038.jp2"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <pb facs="page_image1" n="1"/>
+         <pb facs="page_image2" n="2"/>
+         <pb facs="page_image3" n="3"/>
+         <pb facs="page_image4" n="4"/>
+         <pb facs="page_image5" n="5"/>
+         <pb facs="page_image6" n="6"/>
+         <pb facs="page_image7" n="7"/>
+         <pb facs="page_image8" n="8"/>
+         <pb facs="page_image9" n="9"/>
+         <div>
+            <ab>
+               <lb/>R. CRUIKSHANK'S
+               <lb/>COMIC
+               <lb/>ALPHABET
+               <lb/>LONDON
+               <lb/>DALTON AND CLARK, HOLBORN HILL
+               <lb/>Price Sixpence, coloured
+            </ab>
+         </div>
+         <pb facs="page_image10" n="10"/>
+         <div type="alpha-group" xml:id="ag1" ana="A">
+            <head>A</head>
+            <head>a</head>
+            <lg>
+               <l>ANATOMICAL RESEARCHES.</l>
+            </lg>
+         </div>
+         <div type="alpha-group" xml:id="ag2" ana="B">
+            <head>B</head>
+            <head>b</head>
+            <lg>
+               <l>BOUND IN BOARDS,</l>
+            </lg>
+         </div>
+         
+         
+         <pb facs="page_image11" n="11"/>
+         <div type="alpha-group" xml:id="ag3" ana="C">
+            <head>C</head>
+            <head>c</head>
+            <lg>
+               <l>COLLISION.c</l>
+            </lg>
+         </div>
+         <div type="alpha-group" xml:id="ag4" ana="D">
+            <head>D</head>
+            <head>d</head>
+            <lg>
+               <l>DIFFERENCE OF OPINION.</l>
+            </lg>
+         </div>
+         
+         
+         <pb facs="page_image12" n="12"/>
+         <pb facs="page_image13" n="13"/>
+         <pb facs="page_image14" n="14"/>
+         
+         <div type="alpha-group" xml:id="ag5" ana="E">
+            <head>E</head>
+            <head>e</head>
+            <lg>
+               <l>EXPECTATION</l>
+            </lg>
+         </div>
+         <div type="alpha-group" xml:id="ag6" ana="F">
+            <head>F</head>
+            <head>f</head>
+            <lg>
+               <l>FOUR-IN-HAND</l>
+            </lg>
+         </div>
+                  
+                  
+                  
+
+         <pb facs="page_image15" n="15"/>
+                  <div type="alpha-group" xml:id="ag7" ana="G">
+                     <head>G</head>
+                     <head>g</head>
+                     <lg>
+                        <l>GRAVITY.</l>
+                     </lg>
+                  </div>
+                  <div type="alpha-group" xml:id="ag8" ana="H">
+                     <head>H</head>
+                     <head>h</head>
+                     <lg>
+                        <l>HYDRAULICS.</l>
+                     </lg>
+                  </div>
+                  
+                  
+                  
+         <pb facs="page_image16" n="16"/>
+         <pb facs="page_image17" n="17"/>
+         <pb facs="page_image18" n="18"/>
+                  <div type="alpha-group" xml:id="ag9" ana="I">
+                     <head>I</head>
+                     <head>i</head>
+                     <lg>
+                        <l>IMPOSSIBILITY.</l>
+                     </lg>
+                  </div>
+                  <div type="alpha-group" xml:id="ag10" ana="K">
+                     <head>K</head>
+                     <head>k</head>
+                     <lg>
+                        <l>KILLING NO MURDER,</l>
+                     </lg>
+                  </div>
+                  
+                  
+
+         <pb facs="page_image19" n="19"/>
+                  <div type="alpha-group" xml:id="ag11" ana="L">
+                     <head>L</head>
+                     <head>l</head>
+                     <lg>
+                        <l>LIGHT AND SHADE,</l>
+                     </lg>
+                  </div>
+                  <div type="alpha-group" xml:id="ag12" ana="M">
+                     <head>M</head>
+                     <head>m</head>
+                     <lg>
+                        <l>MOCK TURTLE</l>
+                     </lg>
+                  </div>
+         <pb facs="page_image20" n="20"/>
+         <pb facs="page_image21" n="21"/>
+         <pb facs="page_image22" n="22"/>
+                  <div type="alpha-group" xml:id="ag13" ana="N">
+                     <head>N</head>
+                     <head>n</head>
+                     <lg>
+                        <l>NUTS TO CRACK</l>
+                     </lg>
+                  </div>
+                  <div type="alpha-group" xml:id="ag14" ana="O">
+                     <head>O</head>
+                     <head>o</head>
+                     <lg>
+                        <l>OLD BOGIE,</l>
+                     </lg>
+                  </div>
+         <pb facs="page_image23" n="23"/>
+                  <div type="alpha-group" xml:id="ag15" ana="P">
+                     <head>P</head>
+                     <head>p</head>
+                     <lg>
+                        <l>PLASTER OF PARIS</l>
+                     </lg>
+                  </div>
+                  <div type="alpha-group" xml:id="ag16" ana="Q">
+                     <head>Q</head>
+                     <head>q</head>
+                     <lg>
+                        <l>QUILL-DRIVING.</l>
+                     </lg>
+                  </div>
+         <pb facs="page_image24" n="24"/>
+         <pb facs="page_image25" n="25"/>
+         <pb facs="page_image26" n="26"/>
+                  <div type="alpha-group" xml:id="ag17" ana="R">
+                     <head>R</head>
+                     <head>r</head>
+                     <lg>
+                        <l>RUNNING FOR A DINNER,</l>
+                     </lg>
+                  </div>
+                  <div type="alpha-group" xml:id="ag18" ana="S">
+                     <head>S</head>
+                     <head>s</head>
+                     <lg>
+                        <l>SHAVING A GREENHORN,</l>
+                     </lg>
+                  </div>
+                  
+                  
+
+         <pb facs="page_image27" n="27"/>
+                  <div type="alpha-group" xml:id="ag19" ana="T">
+                     <head>T</head>
+                     <head>t</head>
+                     <lg>
+                        <l>TIME FLIES.</l>
+                     </lg>
+                  </div>
+                  <div type="alpha-group" xml:id="ag20" ana="U">
+                     <head>U</head>
+                     <head>u</head>
+                     <lg>
+                        <l>USHER OF THE BLACK ROD.</l>
+                     </lg>
+                  </div>
+         <pb facs="page_image28" n="28"/>
+         <pb facs="page_image29" n="29"/>
+         <pb facs="page_image30" n="30"/>
+                  <div type="alpha-group" xml:id="ag21" ana="W">
+                     <head>W</head>
+                     <head>w</head>
+                     <lg>
+                        <l>WET-NURSE.</l>
+                     </lg>
+                  </div>
+                  <div type="alpha-group" xml:id="ag22" ana="X">
+                     <head>X</head>
+                     <head>x</head>
+                     <lg>
+                        <l>X-TRA-ORDINARY,</l>
+                     </lg>
+                  </div>
+                  
+                  
+
+                  
+         <pb facs="page_image31" n="31"/>
+                  <div type="alpha-group" xml:id="ag23" ana="Y">
+                     <head>Y</head>
+                     <head>y</head>
+                     <lg>
+                        <l>YARD-ARM AND YARD-ARM</l>
+                     </lg>
+                  </div>
+                  <div type="alpha-group" xml:id="ag24" ana="Z">
+                     <head>Z</head>
+                     <head>z</head>
+                     <lg>
+                        <l>ZOOGRAPHER.</l>
+                     </lg>
+                  </div>
+         <pb facs="page_image32" n="32"/>
+         <pb facs="page_image33" n="33"/>
+         <pb facs="page_image34" n="34"/>
+         <pb facs="page_image35" n="35"/>
+         <pb facs="page_image36" n="36"/>
+         <pb facs="page_image37" n="37"/>
+         <pb facs="page_image38" n="38"/>
+      </body>
+   </text>
+</TEI>

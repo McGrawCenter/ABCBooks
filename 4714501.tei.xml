@@ -1,0 +1,516 @@
+<?xml-model href="https://etc.princeton.edu/abcbooks/schema/abcbooks.schema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Children's Moral Alphabet</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <pubPlace>Princeton, New Jersey</pubPlace>
+            <idno type="voyagerid">4714501</idno>
+            <idno type="abcbooksid">4714501_moral</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="m">
+                     <seg type="nonSort">The </seg>
+                     <seg type="main">Children's Moral Alphabet</seg>
+                  </title>
+                  <imprint>
+                     <pubPlace>Kettering</pubPlace>
+                     <publisher>J.H. Waddington.</publisher>
+                     <date notBefore="1879">1879</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="page_image1">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000001.jp2"/>
+      </surface>
+      <surface xml:id="page_image2">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000002.jp2"/>
+      </surface>
+      <surface xml:id="page_image3">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000003.jp2"/>
+      </surface>
+      <surface xml:id="page_image4">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000004.jp2"/>
+      </surface>
+      <surface xml:id="page_image5">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000005.jp2"/>
+      </surface>
+      <surface xml:id="page_image6">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000006.jp2"/>
+      </surface>
+      <surface xml:id="page_image7">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000007.jp2"/>
+      </surface>
+      <surface xml:id="page_image8">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000008.jp2"/>
+      </surface>
+      <surface xml:id="page_image9">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000009.jp2"/>
+      </surface>
+      <surface xml:id="page_image10">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000010.jp2"/>
+      </surface>
+      <surface xml:id="page_image11">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000011.jp2"/>
+      </surface>
+      <surface xml:id="page_image12">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000012.jp2"/>
+      </surface>
+      <surface xml:id="page_image13">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000013.jp2"/>
+      </surface>
+      <surface xml:id="page_image14">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000014.jp2"/>
+      </surface>
+      <surface xml:id="page_image15">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000015.jp2"/>
+      </surface>
+      <surface xml:id="page_image16">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000016.jp2"/>
+      </surface>
+      <surface xml:id="page_image17">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000017.jp2"/>
+      </surface>
+      <surface xml:id="page_image18">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000018.jp2"/>
+      </surface>
+      <surface xml:id="page_image19">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000019.jp2"/>
+      </surface>
+      <surface xml:id="page_image20">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000020.jp2"/>
+      </surface>
+      <surface xml:id="page_image21">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000021.jp2"/>
+      </surface>
+      <surface xml:id="page_image22">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000022.jp2"/>
+      </surface>
+      <surface xml:id="page_image23">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000023.jp2"/>
+      </surface>
+      <surface xml:id="page_image24">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000024.jp2"/>
+      </surface>
+      <surface xml:id="page_image25">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000025.jp2"/>
+      </surface>
+      <surface xml:id="page_image26">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000026.jp2"/>
+      </surface>
+      <surface xml:id="page_image27">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000027.jp2"/>
+      </surface>
+      <surface xml:id="page_image28">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000028.jp2"/>
+      </surface>
+      <surface xml:id="page_image29">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000029.jp2"/>
+      </surface>
+      <surface xml:id="page_image30">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000030.jp2"/>
+      </surface>
+      <surface xml:id="page_image31">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000031.jp2"/>
+      </surface>
+      <surface xml:id="page_image32">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000032.jp2"/>
+      </surface>
+      <surface xml:id="page_image33">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000033.jp2"/>
+      </surface>
+      <surface xml:id="page_image34">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000034.jp2"/>
+      </surface>
+      <surface xml:id="page_image35">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000035.jp2"/>
+      </surface>
+      <surface xml:id="page_image36">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000036.jp2"/>
+      </surface>
+      <surface xml:id="page_image37">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000037.jp2"/>
+      </surface>
+      <surface xml:id="page_image38">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000038.jp2"/>
+      </surface>
+      <surface xml:id="page_image39">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000039.jp2"/>
+      </surface>
+      <surface xml:id="page_image40">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000040.jp2"/>
+      </surface>
+      <surface xml:id="page_image41">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000041.jp2"/>
+      </surface>
+      <surface xml:id="page_image42">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000042.jp2"/>
+      </surface>
+      <surface xml:id="page_image43">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000043.jp2"/>
+      </surface>
+      <surface xml:id="page_image44">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000044.jp2"/>
+      </surface>
+      <surface xml:id="page_image45">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000045.jp2"/>
+      </surface>
+      <surface xml:id="page_image46">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000046.jp2"/>
+      </surface>
+      <surface xml:id="page_image47">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000047.jp2"/>
+      </surface>
+      <surface xml:id="page_image48">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000048.jp2"/>
+      </surface>
+      <surface xml:id="page_image49">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000049.jp2"/>
+      </surface>
+      <surface xml:id="page_image50">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000050.jp2"/>
+      </surface>
+      <surface xml:id="page_image51">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000051.jp2"/>
+      </surface>
+      <surface xml:id="page_image52">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000052.jp2"/>
+      </surface>
+      <surface xml:id="page_image53">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000053.jp2"/>
+      </surface>
+      <surface xml:id="page_image54">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000054.jp2"/>
+      </surface>
+      <surface xml:id="page_image55">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000055.jp2"/>
+      </surface>
+      <surface xml:id="page_image56">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000056.jp2"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <pb facs="page_image1" n="1"/>
+         <div>
+            <ab>
+               <lb/>THE  CHILDREN'S
+               <lb/>MORAL
+               <lb/>ALPHABET
+            </ab>
+         </div>
+         <pb facs="page_image2" n="2"/>
+
+         <pb facs="page_image3" n="3"/>
+         <div>
+            <ab>
+               <lb/>THE  CHILDREN'S
+               <lb/>MORAL
+               <lb/>ALPHABET
+            </ab>
+         </div>
+         <pb facs="page_image4" n="4"/>
+         <pb facs="page_image5" n="5"/>
+         <div>
+            <ab>
+               <lb />Having observed what utter nonsense is put into the mouths of children, and € the firm hold which it takes on their memories, (I refer to “A was an Archer that shot at a frog, &amp;c.,) I have ventured to compose, in simple rhyme, what I will call “The Children’s Moral Alphabet," with the hope that it may as easily, and as permanently, lodge in the mind a few grains of truth which shall germinate, and even bear some fruit, in the future.
+               <lb />With this view, I submit it to the juvenile public, with my best wishes for their progress in all that is good and true. At the same time apologising for here and there giving a hint to the elder folk.
+               <lb />OCTOGENARIAN
+               <lb />Kettering, July, 1879.
+            </ab>
+         </div>
+         <pb facs="page_image6" n="6"/>
+         <pb facs="page_image7" n="7"/>
+         <div type="alpha-group" xml:id="ag1" ana="A">
+            <head>A</head>
+            <lg>
+               <l>Stands for the Ass: this burden he bore,—</l>
+               <l>A hag of good meal from the water-mill store;</l>
+               <l>Then should he be beaten ’cause slowly he trod ?</l>
+               <l>No! Neddy and meal are both creatures of God.</l>
+            </lg>
+         </div>
+         <pb facs="page_image8" n="8"/>
+         <pb facs="page_image9" n="9"/>
+         <div type="alpha-group" xml:id="ag2" ana="B">
+            <head>B</head>
+            <lg>
+               <l>Stands for Bible, the book of all truth,</l>
+               <l>Which guides to the Saviour both old age and youth;</l>
+               <l>Dear England, old England, thy children are blest,</l>
+               <l>Not one need there he of this Book unpossessed.</l>
+            </lg>
+         </div>
+            <pb facs="page_image10" n="10"/>
+            <pb facs="page_image11" n="11"/>
+            <div type="alpha-group" xml:id="ag3" ana="C">
+               <head>C</head>
+               <lg>
+                  <l>Stands for Coat, that keeps me so warm,</l>
+                  <l>When foot-deep in snow I am plodding the farm;</l>
+                  <l>I shepherd the sheep, and think it’s their wool</l>
+                  <l>That makes all the coats of the boys in our school.</l>
+               </lg>
+            </div>
+            <pb facs="page_image12" n="12"/>
+            <pb facs="page_image13" n="13"/>
+            <div type="alpha-group" xml:id="ag4" ana="D">
+               <head>D</head>
+               <lg>
+                  <l>Stands for Drunkard—oh, shocking the sight!</l>
+                  <l>Let me ne'er be found in such wretched plight:</l>
+                  <l>A grief to my parents, offensive to God-</l>
+                  <l>Save me, 0 save me, from that downward road!</l>
+               </lg>
+            </div>
+         <pb facs="page_image14" n="14"/>
+         <pb facs="page_image15" n="15"/>
+         <div type="alpha-group" xml:id="ag5" ana="E">
+            <head>E</head>
+            <lg>
+               <l>Stands for Eagle, who soars as he flies,</l>
+               <l>Upwards, still upwards, he mounts to the skies;</l>
+               <l>While he who hates learning, an Idler lies down,</l>
+               <l>Content to he always an ignorant clown,</l>
+            </lg>
+         </div>
+         <pb facs="page_image16" n="16"/>
+         <pb facs="page_image17" n="17"/>
+         <div type="alpha-group" xml:id="ag6" ana="F">
+            <head>F</head>
+            <lg>
+               <l>Stands for a Fool, an Atheist he;</l>
+               <l>At the great judgment-day, oh, where will he be?</l>
+               <l>Speechless, confounded, with agonized heart,</l>
+               <l>Awaiting his sentence—Depart ye, depart!</l>
+            </lg>
+         </div>
+         <pb facs="page_image18" n="18"/>
+         <pb facs="page_image19" n="19"/>
+         <div type="alpha-group" xml:id="ag7" ana="G">
+            <head>G</head>
+            <lg>
+               <l>G Stands for Goliath, six cubits in height,</l>
+               <l>In armour complete equipped for the light;</l>
+               <l>I While cursing young David, with boastful disdain,</l>
+               <l>Forth flew the missile: the Giant was slain.</l>
+            </lg>
+         </div>
+         <pb facs="page_image20" n="20"/>
+         <pb facs="page_image21" n="21"/>
+         <div type="alpha-group" xml:id="ag8" ana="H">
+            <head>H</head>
+            <lg>
+               <l>Stands for Home, so sweet and so comely,</l>
+               <l>For love makes it sweet, be it ever so I homely;</l>
+               <l>Then brothers and sisters pray love one another,</l>
+               <l>Joy will it bring to both Father and Mother.</l>
+            </lg>
+         </div>
+         <pb facs="page_image22" n="22"/>
+         <pb facs="page_image23" n="23"/>
+         <div type="alpha-group" xml:id="ag9" ana="I">
+            <head>I</head>
+            <lg>
+               <l>Stands for Ink, let all try to use it,</l>
+               <l>But never take pen whereby to abuse it;</l>
+               <l>For it, like the tongue, true friendships may sever,</l>
+               <l>To unite again—when? the time may come never.</l>
+            </lg>
+         </div>
+         <pb facs="page_image24" n="24"/>
+         <pb facs="page_image25" n="25"/>
+         <div type="alpha-group" xml:id="ag10" ana="J">
+            <head>J</head>
+            <lg>
+               <l>Stands for the Judge, who solemnly sits</l>
+               <l>To lay down the law that condemns or acquits;</l>
+               <l>While twelve honest men take oath on the spot,</l>
+               <l>To give a true verdict, of guilty or not.</l>
+            </lg>
+         </div>
+         <pb facs="page_image26" n="26"/>
+         <pb facs="page_image27" n="27"/>
+         <div type="alpha-group" xml:id="ag11" ana="K">
+            <head>K</head>
+            <lg>
+               <l>Stands for the King, who sits on the Throne;</l>
+               <l>He speaks of “ mj people," but we're not his own:</l>
+               <l>Our grand Constitution, I’m proud to relate,</l>
+               <l>Is King, Lords, and Commons,—we call it the State,</l>
+            </lg>
+         </div>
+         <pb facs="page_image28" n="28"/>
+         <pb facs="page_image29" n="29"/>
+         
+         <div type="alpha-group" xml:id="ag12" ana="L">
+            <head>L</head>
+            <lg>
+               <l>Stands for lamb, what a time honoured name!</l>
+               <l>Since Jesus, the Lord, is well known by the same;</l>
+               <l>For lo! on the Cross He gave up His breath,</l>
+               <l>To save a lost world from sin and from death.</l>
+            </lg>
+         </div>
+         <pb facs="page_image30" n="30"/>
+         <pb facs="page_image31" n="31"/>
+         <div type="alpha-group" xml:id="ag13" ana="M">
+            <head>M</head>
+            <lg>
+               <l>Stands for Mother, fair emblem of love,</l>
+               <l>Who nursed me, and fed me, and called me her dove:</l>
+               <l>what can I render such love and affection</l>
+               <l>n weakness and age? ij kindest protection.</l>
+            </lg>
+         </div>
+         <pb facs="page_image32" n="32"/>
+         <pb facs="page_image33" n="33"/>
+         <div type="alpha-group" xml:id="ag14" ana="N">
+            <head>N</head>
+            <lg>
+               <l>Stands for Neighbour, oh, what says the lord ?</l>
+               <l>“Love him as yourself," it stands on record ;</l>
+               <l>And should he offend you, to seven times even,</l>
+               <l>Your love must forgive to seventy times seven.</l>
+            </lg>
+         </div>
+         <pb facs="page_image34" n="34"/>
+         <pb facs="page_image35" n="35"/>
+         <div type="alpha-group" xml:id="ag15" ana="O">
+            <head>O</head>
+            <lg>
+               <l>Stands for Oyster, with rough-coated shell;</l>
+               <l>When the morsel you've tasted, examine it well;</l>
+               <l>Judge no man in haste, it will not be kind,</l>
+               <l>The outside is nothing: the pearl is the mind.</l>
+            </lg>
+         </div>
+         <pb facs="page_image36" n="36"/>
+         <pb facs="page_image37" n="37"/>
+         <div type="alpha-group" xml:id="ag16" ana="P">
+            <head>P</head>
+            <lg>
+               <l>Stands for Peter, sad storj to tell,—</l>
+               <l>He trusted in self: you know how he fell; </l>
+               <l>But was kindly restored by a glance of the eye</l>
+               <l>From Jesus, his Saviour, lest Peter should die.</l>
+            </lg>
+         </div>
+         <pb facs="page_image38" n="38"/>
+         <pb facs="page_image39" n="39"/>
+         <div type="alpha-group" xml:id="ag17" ana="Q">
+            <head>Q</head>
+            <lg>
+               <l>Stands for Quick: it’s no nse delaying;</l>
+               <l>Time flies apace, and never means staying;</l>
+               <l>So ponder the thought, that man, like a flower,</l>
+               <l>Though blooming with health, is cut down in an hour,</l>
+            </lg>
+         </div>
+         <pb facs="page_image40" n="40"/>
+         <pb facs="page_image41" n="41"/>
+         <div type="alpha-group" xml:id="ag18" ana="R">
+            <head>R</head>
+            <lg>
+               <l>Stands for a Rose, the garden’s fair queen;</l>
+               <l>How lovely the pink, how charming the green!</l>
+               <l>Not less the fair maiden adds grace to her beauty,</l>
+               <l>When love and affection give impulse to duty.</l>
+            </lg>
+         </div>
+         <pb facs="page_image42" n="42"/>
+         <pb facs="page_image43" n="43"/>
+         <div type="alpha-group" xml:id="ag19" ana="S">
+            <head>S</head>
+            <lg>
+               <l>Stands for the Sun, he sends out his rays,</l>
+               <l>He lights np the earth, her grandeur displays;</l>
+               <l>The air fills with music from coppice and wood,</l>
+               <l>Proclaiming in chorus the goodness of God.</l>
+            </lg>
+         </div>
+         <pb facs="page_image44" n="44"/>
+         <pb facs="page_image45" n="45"/>
+         <div type="alpha-group" xml:id="ag20" ana="T">
+            <head>T</head>
+            <lg>
+               <l>Stands for Tiger, whose nature is cruel,</l>
+               <l>And men are no better who fight in a duel:</l>
+               <l>Nor should Christian nations partake the disgrace</l>
+               <l>Of sanctioning war, to destroy their own race.</l>
+            </lg>
+         </div>
+         <pb facs="page_image46" n="46"/>
+         <pb facs="page_image47" n="47"/>
+         <div type="alpha-group" xml:id="ag21" ana="U">
+            <head>U</head>
+            <lg>
+               <l>Stands for "Ursus," in English, the Bear;</l>
+               <l>An ugly old fellow, so pray you beware!</l>
+               <l>A brute may be bearish, but men should know better;</l>
+               <l>Youth should be kind, and polite to the letter.</l>
+            </lg>
+         </div>
+         <pb facs="page_image48" n="48"/>
+         <pb facs="page_image49" n="49"/>
+         <div type="alpha-group" xml:id="ag22" ana="V">
+            <head>V</head>
+            <lg>
+               <l>H, Holy Father, no culture but Thine,</l>
+               <l>Can make me a branch of Christ, the true Vine;</l>
+               <l>Thy pruning alone, by faith and by prayer,</l>
+               <l>Can make the good fruit in rich clusters appear.</l>
+            </lg>
+         </div>
+         
+         <pb facs="page_image50" n="50"/>
+         <pb facs="page_image51" n="51"/>
+         <div type="alpha-group" xml:id="ag23" ana="W">
+            <head>W</head>
+            <lg>
+               <l>WEATHERCOCK, Weathercock, turned by the wind,</l>
+               <l>Type of the man who knows not his own mind;</l>
+               <l>While valiant for truth, he stands like a tower,</l>
+               <l>His girdle is strength, his armour is power.</l>
+            </lg>
+         </div>
+         <pb facs="page_image52" n="52"/>
+         <pb facs="page_image53" n="53"/>
+         <div type="alpha-group" xml:id="ag24" ana="X">
+            <head>X</head>
+            <lg>
+               <l>NOT a word in our language begins with an X,</l>
+               <l>But there he sits striding, poor Rhymer to vex;</l>
+               <l>Be patient, poor Rhymer, don’t trouble your head,</l>
+               <l>But close your long ditty with— X, Y and Z</l>
+            </lg>
+         </div>
+         <pb facs="page_image54" n="54"/>
+         <div type="alpha-group" xml:id="ag25" ana="XYZ">
+            <head>XYZ</head>
+            <lg>
+               <l>BUT oh, Mr. Rhymer, you spoke of politeness:</l>
+               <l>We ask, Is it right, by dint of adroitness,</l>
+               <l>That we should he left as though we were dead ?</l>
+               <l>We rank with our fellows as X, Y, and Z.</l>
+               <l>So pray, aged Sir, our minds to compose,</l>
+               <l>dive us a last word, in rhyme or in prose.</l>
+            </lg>
+         </div>
+         <pb facs="page_image55" n="55"/>
+         <pb facs="page_image56" n="56"/>
+      </body>
+   </text>
+</TEI>

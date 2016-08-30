@@ -1,0 +1,627 @@
+<?xml-model href="https://etc.princeton.edu/abcbooks/schema/abcbooks.schema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Canadian Child's ABC</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <pubPlace>Princeton, New Jersey</pubPlace>
+            <idno type="voyagerid">5468260</idno>
+            <idno type="abcbooksid">5468260_canadian</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="m">
+                     <seg type="nonSort">A </seg>
+                     <seg type="main">Canadian child's ABC</seg>
+                  </title>
+                  <imprint>
+                     <pubPlace>Toronto Vancouver</pubPlace>
+                     <publisher>Dent</publisher>
+                     <date notBefore="1931">[1931] 1931</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="page_image1">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000001.jp2"/>
+      </surface>
+      <surface xml:id="page_image2">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000002.jp2"/>
+      </surface>
+      <surface xml:id="page_image3">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000003.jp2"/>
+      </surface>
+      <surface xml:id="page_image4">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000004.jp2"/>
+      </surface>
+      <surface xml:id="page_image5">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000005.jp2"/>
+      </surface>
+      <surface xml:id="page_image6">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000006.jp2"/>
+      </surface>
+      <surface xml:id="page_image7">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000007.jp2"/>
+      </surface>
+      <surface xml:id="page_image8">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000008.jp2"/>
+      </surface>
+      <surface xml:id="page_image9">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000009.jp2"/>
+      </surface>
+      <surface xml:id="page_image10">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000010.jp2"/>
+      </surface>
+      <surface xml:id="page_image11">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000011.jp2"/>
+      </surface>
+      <surface xml:id="page_image12">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000012.jp2"/>
+      </surface>
+      <surface xml:id="page_image13">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000013.jp2"/>
+      </surface>
+      <surface xml:id="page_image14">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000014.jp2"/>
+      </surface>
+      <surface xml:id="page_image15">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000015.jp2"/>
+      </surface>
+      <surface xml:id="page_image16">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000016.jp2"/>
+      </surface>
+      <surface xml:id="page_image17">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000017.jp2"/>
+      </surface>
+      <surface xml:id="page_image18">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000018.jp2"/>
+      </surface>
+      <surface xml:id="page_image19">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000019.jp2"/>
+      </surface>
+      <surface xml:id="page_image20">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000020.jp2"/>
+      </surface>
+      <surface xml:id="page_image21">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000021.jp2"/>
+      </surface>
+      <surface xml:id="page_image22">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000022.jp2"/>
+      </surface>
+      <surface xml:id="page_image23">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000023.jp2"/>
+      </surface>
+      <surface xml:id="page_image24">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000024.jp2"/>
+      </surface>
+      <surface xml:id="page_image25">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000025.jp2"/>
+      </surface>
+      <surface xml:id="page_image26">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000026.jp2"/>
+      </surface>
+      <surface xml:id="page_image27">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000027.jp2"/>
+      </surface>
+      <surface xml:id="page_image28">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000028.jp2"/>
+      </surface>
+      <surface xml:id="page_image29">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000029.jp2"/>
+      </surface>
+      <surface xml:id="page_image30">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000030.jp2"/>
+      </surface>
+      <surface xml:id="page_image31">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000031.jp2"/>
+      </surface>
+      <surface xml:id="page_image32">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000032.jp2"/>
+      </surface>
+      <surface xml:id="page_image33">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000033.jp2"/>
+      </surface>
+      <surface xml:id="page_image34">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000034.jp2"/>
+      </surface>
+      <surface xml:id="page_image35">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000035.jp2"/>
+      </surface>
+      <surface xml:id="page_image36">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000036.jp2"/>
+      </surface>
+      <surface xml:id="page_image37">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000037.jp2"/>
+      </surface>
+      <surface xml:id="page_image38">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000038.jp2"/>
+      </surface>
+      <surface xml:id="page_image39">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000039.jp2"/>
+      </surface>
+      <surface xml:id="page_image40">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000040.jp2"/>
+      </surface>
+      <surface xml:id="page_image41">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000041.jp2"/>
+      </surface>
+      <surface xml:id="page_image42">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000042.jp2"/>
+      </surface>
+      <surface xml:id="page_image43">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000043.jp2"/>
+      </surface>
+      <surface xml:id="page_image44">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000044.jp2"/>
+      </surface>
+      <surface xml:id="page_image45">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000045.jp2"/>
+      </surface>
+      <surface xml:id="page_image46">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000046.jp2"/>
+      </surface>
+      <surface xml:id="page_image47">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000047.jp2"/>
+      </surface>
+      <surface xml:id="page_image48">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000048.jp2"/>
+      </surface>
+      <surface xml:id="page_image49">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000049.jp2"/>
+      </surface>
+      <surface xml:id="page_image50">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000050.jp2"/>
+      </surface>
+      <surface xml:id="page_image51">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000051.jp2"/>
+      </surface>
+      <surface xml:id="page_image52">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000052.jp2"/>
+      </surface>
+      <surface xml:id="page_image53">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000053.jp2"/>
+      </surface>
+      <surface xml:id="page_image54">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000054.jp2"/>
+      </surface>
+      <surface xml:id="page_image55">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000055.jp2"/>
+      </surface>
+      <surface xml:id="page_image56">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000056.jp2"/>
+      </surface>
+      <surface xml:id="page_image57">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000057.jp2"/>
+      </surface>
+      <surface xml:id="page_image58">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000058.jp2"/>
+      </surface>
+      <surface xml:id="page_image59">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000059.jp2"/>
+      </surface>
+      <surface xml:id="page_image60">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000060.jp2"/>
+      </surface>
+      <surface xml:id="page_image61">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000061.jp2"/>
+      </surface>
+      <surface xml:id="page_image62">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000062.jp2"/>
+      </surface>
+      <surface xml:id="page_image63">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000063.jp2"/>
+      </surface>
+      <surface xml:id="page_image64">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000064.jp2"/>
+      </surface>
+      <surface xml:id="page_image65">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000065.jp2"/>
+      </surface>
+      <surface xml:id="page_image66">
+         <graphic ana="lowres" mimeType="image/jp2" url="00000066.jp2"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <pb facs="page_image1" n="1"/>
+         <pb facs="page_image2" n="2"/>
+         <pb facs="page_image3" n="3"/>
+         <pb facs="page_image4" n="4"/>
+         <pb facs="page_image5" n="5"/>
+         <pb facs="page_image6" n="6"/>
+         <pb facs="page_image7" n="7"/>
+         
+         
+         <div>
+            <ab>
+               <lb/>A CANADIAN
+               <lb/>CHILD’S
+               <lb/>ABC
+               <lb/>VERSES BY R.K. GORDON II DRAWINGS BY THOREAU MACDONALD
+               <lb/>Dent .Toronto S. Vancouver
+               
+               <lb/>ALL RIGHTS RESERVED PRINTED IN GREAT BRITAIN AT THE TEMPLE PRESS, LETCHWORTH, HERTS FIRST PUBLISHED IN I931
+            </ab>
+         </div>
+         <pb facs="page_image8" n="8"/>
+         <pb facs="page_image9" n="9"/>
+         <div>
+            <head>CANADA</head>
+            <lg>
+               <l>TWO thousand miles of forest,</l>
+               <l>A thousand miles of plain,</l>
+               <l>A thousand miles of mountains,</l>
+               <l>And then the sea again.</l>
+            </lg>
+         </div>
+         <pb facs="page_image10" n="10"/>
+         <div type="alpha-group" xml:id="ag1" ana="A">
+            <head>APPLES</head>
+            <lg>
+               <l>McINTOSH Reds and Russets,</l>
+               <l>Wealthys and Northern Spies,</l>
+               <l>Winesaps, Snows, and Newtons:</l>
+               <l>Which of them takes the prize ?</l>
+            </lg>
+         </div>
+         <pb facs="page_image11" n="11"/>
+         <pb facs="page_image12" n="12"/>
+         <div type="alpha-group" xml:id="ag2" ana="B">
+            <head>BEAVER</head>
+            <lg>
+               <l>UPON our stamps he used to stand</l>
+               <l>For he is emblem of the land.</l>
+               <l>No more we see him on the stamp;</l>
+               <l>Our only chance is when we camp.</l>
+               
+               <l>But he is shy, and when he goes</l>
+               <l>A-swimming, you can see his nose,</l>
+               <l>And nothing more except his track.</l>
+               <l>If he ’s alarmed, a mighty smack</l>
+               
+               <l>Of his flat tail, and he ’s gone clean,</l>
+               <l>Like any other submarine.</l>
+            </lg>
+         </div>
+         <pb facs="page_image13" n="13"/>
+         <pb facs="page_image14" n="14"/>
+         <div type="alpha-group" xml:id="ag3" ana="C">
+            <head>CHINOOK</head>
+            <lg>
+               <l>UP goes the mercury,</l>
+               <l>Away goes the snow,</l>
+               <l>Off go overcoats</l>
+               <l>When chinooks blow.</l>
+            </lg>
+         </div>
+         <pb facs="page_image15" n="15"/>
+         <pb facs="page_image16" n="16"/>
+         <div type="alpha-group" xml:id="ag4" ana="D">
+            <head>DAULAC</head>
+            <lg>
+               <l>WHEN their canoes left Montreal</l>
+               <l>They knew that they would not come back;</l>
+               <l>But they were proud to give their all</l>
+               <l>For France and die beside Daulac.</l>
+               
+               <l>Eight times day slowly dimmed to night;</l>
+               <l>Eight times night slowly wore to day ;</l>
+               <l>While at Long Sault they fought their fight,</l>
+               <l>And held the Iroquois at bay.</l>
+            </lg>
+         </div>
+         
+         <pb facs="page_image17" n="17"/>
+         <pb facs="page_image18" n="18"/>
+         <div type="alpha-group" xml:id="ag5" ana="E">
+            <head>EXPLORERS</head>
+            <lg>
+               <l>COLD, want, and hunger could not turn</l>
+               <l>Them back from their great quest—</l>
+               <l>Mackenzie, Henry Hudson, Hearne—</l>
+               <l>Till utmost north and west,</l>
+               
+               <l>Forest and lake and far-spread plain,</l>
+               <l>Arctic and western sea</l>
+               <l>Surrendered to Franklin and Champlain,</l>
+               <l>Kelsey, Laverendrye.</l>
+            </lg>
+         </div>
+         <pb facs="page_image19" n="19"/>
+         <pb facs="page_image20" n="20"/>
+         <div type="alpha-group" xml:id="ag6" ana="F">
+            <head>FATHER POINT</head>
+            <lg>
+               <l>IT ’s there you drop the pilot</l>
+               <l>When you are outward-bound ;</l>
+               <l>It ’s there they have a foghorn</l>
+               <l>Of strange and doleful sound ;</l>
+               
+               <l>It ’s there you start to wonder</l>
+               <l>Just how you ’re going to be</l>
+               <l>Next day, when you’re surrounded</l>
+               <l>By nothing but the sea.</l>
+               
+               <l>But when you ’re headed westward,</l>
+               <l>And the sea is all behind,</l>
+               <l>There you pick up the pilot,</l>
+               <l>And Father Point seems kind.</l>
+            </lg>
+         </div>
+         <pb facs="page_image21" n="21"/>
+         <pb facs="page_image22" n="22"/>
+         <div type="alpha-group" xml:id="ag7" ana="G">
+            <head>GRAIN</head>
+            <lg>
+               <l>WHEAT for the English bakers</l>
+               <l>And oats that are soon to be rolled,</l>
+               <l>Thousands and thousands of acres</l>
+               <l>Covered with prairie gold.</l>
+            </lg>
+         </div>
+         <pb facs="page_image23" n="23"/>
+         <pb facs="page_image24" n="24"/>
+         <div type="alpha-group" xml:id="ag8" ana="H">
+            <head>HUDSON BAY COMPANY</head>
+            <lg>
+               <l>TWAS Charles the Second gave the charter</l>
+               <l>Allowing them to trade and barter,</l>
+               <l>And they have done so ever since</l>
+               <l>That generous and merry prince</l>
+               
+               <l>Gave their wide powers and mighty sway</l>
+               <l>To the Governor and Company</l>
+               <l>of Adventurers of England</l>
+               <l>trading into Hudson Bay.</l>
+            </lg>
+         </div>
+         <pb facs="page_image25" n="25"/>
+         <pb facs="page_image26" n="26"/>
+         <div type="alpha-group" xml:id="ag9" ana="I">
+            <head>INDIANS</head>
+            <lg>
+               <l>ABOUT four hundred, years ago</l>
+               <l>They first looked on a white man’s</l>
+               <l>And welcomed him, and did not know</l>
+               <l>That one day he would take their place.</l>
+               
+               <l>They still are here, but their fierce pride</l>
+               <l>And wild free life have passed away ; Another race has thrust aside</l>
+               <l>The children of a bygone day.</l>
+            </lg>
+         </div>
+         <pb facs="page_image27" n="27"/>
+         <pb facs="page_image28" n="28"/>
+         <div type="alpha-group" xml:id="ag10" ana="J">
+            <head>JESUITS</head>
+            <lg>
+               <l>TO light dark Indian souls they came,</l>
+               <l>And suffered for their dear Faith’s sake;</l>
+               <l>They passed unflinching to the flame;</l>
+               <l>They stood unconquered at the stake.</l>
+            </lg>
+         </div>
+         <pb facs="page_image29" n="29"/>
+         <pb facs="page_image30" n="30"/>
+         <div type="alpha-group" xml:id="ag11" ana="K">
+            <head>KICKING HORSE PASS</head>
+            <lg>
+               <l>THE thing, some said, could not be done,</l>
+               <l>But pluck and brains persisted till</l>
+               <l>Through that wild pass the rails were run,</l>
+               <l>And it was conquered by man’s will.</l>
+            </lg>
+         </div>
+         <pb facs="page_image31" n="31"/>
+         <pb facs="page_image32" n="32"/>
+         <div type="alpha-group" xml:id="ag12" ana="L">
+            <head>LAKES</head>
+            <lg>
+               <l>THERE are five Great Lakes, all deep and wide,</l>
+               <l>And when the wind makes a commotion,</l>
+               <l>If you ’re on shipboard, your inside</l>
+               <l>Will feel the same as on the ocean.</l>
+            </lg>
+         </div>
+         <pb facs="page_image33" n="33"/>
+         <pb facs="page_image34" n="34"/>
+         <div type="alpha-group" xml:id="ag13" ana="M">
+            <head>MOUNTIES</head>
+            <lg>
+               <l>THEY came before the railways came,</l>
+               <l>And to the west brought law and order.</l>
+               <l>They ’ve won themselves a right fair name</l>
+               <l>From Herschel Island to the border.</l>
+            </lg>
+         </div>
+         <pb facs="page_image35" n="35"/>
+         <pb facs="page_image36" n="36"/>
+         <div type="alpha-group" xml:id="ag14" ana="N">
+            <head>NIAGARA</head>
+            <lg>
+               <l>WHAT a great thing to have been</l>
+               <l>First of white men to have seen</l>
+               <l>Niagara, and stood in wonder</l>
+               <l>At the water’s rush and thunder !</l>
+               
+               <l>Father Hennepin saw that show</l>
+               <l>Two centuries and a half ago,</l>
+               <l>But, though we can’t feel quite his thrill,</l>
+               <l>The Falls are strange and mighty still.</l>
+            </lg>
+         </div>
+         <pb facs="page_image37" n="37"/>
+         <pb facs="page_image38" n="38"/>
+         <div type="alpha-group" xml:id="ag15" ana="O">
+            <head>OTTAWA</head>
+            <lg>
+               <l>TO Ottawa from coast to coast</l>
+               <l>The chosen come to make the laws.</l>
+               <l>For weeks they talk about a lot</l>
+               <l>Of different things</l>
+               <l>with scarce a pause : The railway line to Hudson Bay,</l>
+               <l>Taxes and tariff, immigration,</l>
+               <l>The great St. Lawrence waterway,</l>
+               <l>And whether we are yet a nation.</l>
+            </lg>
+         </div>
+         <pb facs="page_image39" n="39"/>
+         <pb facs="page_image40" n="40"/>
+         <div type="alpha-group" xml:id="ag16" ana="P">
+            <head>PRAIRIES</head>
+            <lg>
+               <l>THE prairies stretch from Winnipeg</l>
+               <l>To where the foothills start,</l>
+               <l>The pioneer jogged all that way</l>
+               <l>In a slow Red River cart.</l>
+            </lg>
+         </div>
+         <pb facs="page_image41" n="41"/>
+         <pb facs="page_image42" n="42"/>
+         <div type="alpha-group" xml:id="ag17" ana="Q">
+            <head>QUEBEC</head>
+            <lg>
+               <l>THE Indians lived there, then the French,</l>
+               <l>And last the English came;</l>
+               <l>Three hundred years of history</l>
+               <l>Are wrapped up in the name.</l>
+            </lg>
+         </div>
+         <pb facs="page_image43" n="43"/>
+         <pb facs="page_image44" n="44"/>
+         <div type="alpha-group" xml:id="ag18" ana="R">
+            <head>RIVERS</head>
+            <lg>
+               <l>BIG and small, swift and slow,</l>
+               <l>North, south, east and west</l>
+               <l>they flow Fraser, Red, Saskatchewan,</l>
+               <l>Tobique, Saguenay, St. John,</l>
+               <l>Peace, Mackenzie, Montreal,</l>
+               <l>Great St. Lawrence, king of all.</l>
+            </lg>
+         </div>
+         <pb facs="page_image45" n="45"/>
+         <pb facs="page_image46" n="46"/>
+         <div type="alpha-group" xml:id="ag19" ana="S">
+            <head>SUGAR</head>
+            <lg>
+               <l>IT's not the kind you put in tea,</l>
+               <l>But what comes from the maple tree</l>
+               <l>When men go out in Spring and tap</l>
+               <l>The trunks and catch the fresh sweet sap,</l>
+               
+               <l>Which, after proper boiling, makes</l>
+               <l>Brown maple sugar in hard cakes;</l>
+               <l>And all one maple tree can do</l>
+               <l>Is to make just a pound or two.</l>
+            </lg>
+         </div>
+         <pb facs="page_image47" n="47"/>
+         <pb facs="page_image48" n="48"/>
+         <div type="alpha-group" xml:id="ag20" ana="T">
+            <head>TUMP</head>
+            <lg>
+               <l>WHEN the portage is long and the footing is	rough,</l>
+               <l>And the load on your back weighs far more than enough,</l>
+               
+               <l>When each muscle has its own separate ache,</l>
+               <l>And mosquitoes are with you each step that you take,</l>
+               <l>The tump seems a tyrant. But then through the trees</l>
+               <l>Comes on your face sudden a freshening breeze,</l>
+               <l>You see the trail's end and a ripple of blue,</l>
+               <l>And bless the good tump line that helped you get through.</l>
+            </lg>
+         </div>
+         <pb facs="page_image49" n="49"/>
+         <pb facs="page_image50" n="50"/>
+         <div type="alpha-group" xml:id="ag21" ana="U">
+            <head>UNEXPLORED</head>
+            <lg>
+               <l>THE best thing on the old-fashioned maps</l>
+               <l>Of Canada was those great gaps Marked ‘‘Unexplored'</l>
+               <l>You felt you could Fill them up any way you would—</l>
+               <l>With herds of charging buffalo,</l>
+               <l>With Indian and Eskimo,</l>
+               <l>With teepee, dogsled and igloo,</l>
+               <l>With grizzly bears and caribou.</l>
+               
+               <l>But since the railways have got there,</l>
+               <l>The maps are not so nice and bare.</l>
+            </lg>
+         </div>
+         <pb facs="page_image51" n="51"/>
+         <pb facs="page_image52" n="52"/>
+         <div type="alpha-group" xml:id="ag22" ana="V">
+            <head>VANCOUVER</head>
+            <lg>
+               <l>SHE lies beyond the mountains,</l>
+               <l>And from within her bay</l>
+               <l>She sends the great ships sailing</l>
+               <l>To ports in far Cathay.</l>
+            </lg>
+         </div>
+         <pb facs="page_image53" n="53"/>
+         <pb facs="page_image54" n="54"/>
+         <div type="alpha-group" xml:id="ag23" ana="W">
+            <head>WOLFE</head>
+            <lg>
+               <l>WITH muffled oars upstream they crept,</l>
+               <l>Wolfe and his men, on that dark night.</l>
+               <l>They clambered up the narrow path,</l>
+               <l>And morning found them on the height.</l>
+               
+               <l>And New France fell, and Montcalm died,</l>
+               <l>And what France lost old England won;</l>
+               <l>But Wolfe, thrice wounded, only lived</l>
+               <l>To hear with dying ears: “They run.”</l>
+            </lg>
+         </div>
+         <pb facs="page_image55" n="55"/>
+         <pb facs="page_image56" n="56"/>
+         <div type="alpha-group" xml:id="ag24" ana="X">
+            <head>X</head>
+            <lg>
+               <l>X marks the spot where Jacques Cartier landed</l>
+               <l>And found true romance if ever a man did</l>
+            </lg>
+         </div>
+         <pb facs="page_image57" n="57"/>
+         <pb facs="page_image58" n="58"/>
+         <div type="alpha-group" xml:id="ag25" ana="Y">
+            <head>YUKON</head>
+            <lg>
+               <l>GOLD gave the Yukon sudden fame,</l>    <l>And from the world’s four quarters came</l>
+               <l>Adventurers to stake a claim And risk their fate.</l>
+               <l>Some won, and many lost that game In Ninety-Eight.</l>
+            </lg>
+         </div>
+         <pb facs="page_image59" n="59"/>
+         <pb facs="page_image60" n="60"/>
+         <div type="alpha-group" xml:id="ag26" ana="Z">
+            <head>ZERO</head>
+            <lg>
+               <l>WHEN zero comes and ground is hard,</l>
+               <l>We take the hose and flood the yard;</l>
+               <l>I like the garden, but I think</l>
+               <l>I like it better as a rink.</l>
+            </lg>
+         </div>
+         <pb facs="page_image61" n="61"/>
+         <pb facs="page_image62" n="62"/>
+         <pb facs="page_image63" n="63"/>
+         <pb facs="page_image64" n="64"/>
+         <pb facs="page_image65" n="65"/>
+         <pb facs="page_image66" n="66"/>
+         
+      </body>
+   </text>
+</TEI>
