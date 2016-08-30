@@ -6,7 +6,13 @@ The ABC Books project makes available for research and analysis an interactive d
 
 ## Project Development
 
-The project was built upon the Drupal content management system. Images of the ABC books contained in the archive are transcluded from the Princeton University Digital Library (PUDL). 
+The project was built upon the Drupal content management system. Images of the ABC books contained in the archive are transcluded from the Princeton University Digital Library (PUDL). The archive makes use of Internet Archive BookReader code for the dsiplay of page images:
+
+http://openlibrary.org/dev/docs/bookreader
+
+https://github.com/internetarchive/bookreader
+
+
 
 ## Links
 
