@@ -12,9 +12,11 @@ http://openlibrary.org/dev/docs/bookreader
 
 https://github.com/internetarchive/bookreader
 
+###XML
 
+The XML (TEI) transcriptions of the books are included in this repository were created by the project participants with help from the students in the Children's Literature course. The TEI files are hosted with accompanying XQuery files on a Princeton University owned [eXistdb](http://exist-db.org/exist/apps/homepage/index.html) server.
 
-##Additional Drupal Modules
+###Additional Drupal Modules
 
 [Flag Bookmarking module](https://www.drupal.org/project/flag) For saving bookmarks of page images for display in the users' profile pages.
 
