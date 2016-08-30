@@ -12,11 +12,15 @@ http://openlibrary.org/dev/docs/bookreader
 
 https://github.com/internetarchive/bookreader
 
+
+
 ##Additional Drupal Modules
 
 [Flag Bookmarking module](https://www.drupal.org/project/flag) For saving bookmarks of page images for display in the users' profile pages.
 
 BookTags. A custom module for the collection of tags associated with book page images.
+
+[Views](https://www.drupal.org/project/views) The archive makes extensive use of the Views module. 
 
 ## Links
 
